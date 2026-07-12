@@ -5,7 +5,7 @@ int main ()
 int a;
 int b;
  
-	printf("foot");
+	printf("foot")；
 	scanf("%d", &a);
 	
 	printf("inch");
